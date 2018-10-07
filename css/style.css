@@ -52,7 +52,6 @@ hr {
     margin-top: 40px;
 }
 
-/* Profile Section */
 .profile {
     overflow: hidden;
     width: 27%;
@@ -110,7 +109,6 @@ hr {
     letter-spacing: 2px;
     color: #001691;
 }
-
 
 ul.contacts {
     list-style: none;
@@ -173,14 +171,12 @@ ul.contacts li span {
 	text-decoration: none;
 }
 
-
 .btn:hover {
 	color: #fff;
 	background-color: #565656;
 	text-decoration: none;
 }
 
-/* Page Content */
 .information {
     overflow: hidden;
     width: 70%;
